@@ -1,0 +1,39 @@
+   #box {
+       height:70%;
+       width:100%;
+       background-color: #000;
+       position:relative;
+   }
+   html,body {
+       height:100%;
+       width:100%;
+   }
+   .con {
+       height:5rem;
+       width: 30rem;
+       line-height:5rem;
+       text-align:center;
+       color:#fff;
+       font-size:2rem;
+   }
+   .center {
+       height:7rem;
+       width:15rem;
+       margin:5rem auto;
+       color:#fff;
+       text-align:center;
+       line-height:7rem;
+       box-sizing:border-box;
+       font-size:8rem;
+   }
+   .footer {
+       height: 10rem;
+       width: 30rem;
+       margin-top:10rem auto;
+       position:absolute;
+       line-height:10rem;
+       color:#fff;
+       right:0;
+       bottom:0;
+       font-size:2rem;
+   } 
